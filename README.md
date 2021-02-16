@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/3o7WIzHmmYx0HYFzZm/giphy.gif" alt="dados" />
+<img src="https://raw.githubusercontent.com/rodrigomariamorgao/portfolio_data_science/master/banner.png" alt="dados" />
 
 
  ### Hi there 👋
