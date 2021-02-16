@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/TatianaFlorentino/trajetoria/7677823a87184296885957db03cc14fda9999459/4.jpg" alt="dados" />
+<img src="https://raw.githubusercontent.com/TatianaFlorentino/TatianaFlorentino/main/Mensagem%20Motivacional%20Bege%20e%20Marrom%20(1).png" alt="dados" />
 
 
  ### Hi there 👋
