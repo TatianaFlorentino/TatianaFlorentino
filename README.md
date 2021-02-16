@@ -9,8 +9,10 @@ Atualmente, sou Product Manager em uma fintech e estudante de Data Science.
 
 Tenho mais de 16 anos de experiência na área de tecnologia.
 
-Durante minha trajetória profissional iniciou-se informalmente aos 24 anos de idade, como desenvolvedora de software meu primeiro trabalho foi na [PRODAM](https://portal.prodam.sp.gov.br)
-Depois comecei a trabalhar com java no CIETEC-USP, TCS entre outras consultorias. Após essas experiências, tive a oportunidade de meu primeiro emprego CLT como analista e desenvolvedora, onde iniciei como Analista de Sistemas Pleno e, de acordo com as oportunidades, cheguei ao cargo de Analista de Sistemas Sênior em TI. Após essa experiência, resolvi evoluir minha carreira para area de negocios, atuei em empresas como Sem Parar, Ministerio Publico de SP, Webmotors, Startups como analista projetista, negocios, produtos nos regimes PJ e CLT, porém quero agregar na minha carreira conhecimento em linguagens de programação Python, Machine Learning, Inteligência Artificial para gestão e criação de produtos de dados.
+Durante minha trajetória profissional iniciou-se informalmente aos 24 anos de idade, como desenvolvedora de software meu primeiro trabalho foi na PRODAM.
+Depois comecei a trabalhar com java no CIETEC-USP, TCS entre outras consultorias.
+Após essas experiências, tive a oportunidade de meu primeiro emprego CLT como analista e desenvolvedora, onde iniciei como Analista de Sistemas Pleno e, de acordo com as oportunidades, cheguei ao cargo de Analista de Sistemas Sênior em TI. 
+Resolvi evoluir minha carreira para area de negocios, atuei em empresas como Sem Parar, Ministerio Publico de SP, Webmotors, Startups como analista projetista, negocios, produtos nos regimes PJ e CLT, porém quero agregar na minha carreira conhecimento em linguagens de programação Python, Machine Learning, Inteligência Artificial para gestão e criação de produtos de dados.
 
 Durante minha trajetória profissional, trabalhei em projetos internacional, migração sistêmica, automação de rotinas, metodologia BPM e ágil e criação de dashboards de BI, utilizando linguagens Java, Node, Python e Arquitetura AWS.
 
@@ -27,6 +29,7 @@ Durante minha trajetória profissional, trabalhei em projetos internacional, mig
 
 * [LinkedIn](https://br.linkedin.com/public-profile/in/tatiana-florentino-52179010)
 * [Medium](https://medium.com/@tatianafloren)
+* [instagram](https://www.instagram.com/trajetoria_datascience/?hl=pt)
 
 
 ## Projetos e Publicações:
