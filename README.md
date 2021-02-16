@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/rodrigomariamorgao/portfolio_data_science/master/banner.png" alt="dados" />
+<img src="https://raw.githubusercontent.com/TatianaFlorentino/trajetoria/7677823a87184296885957db03cc14fda9999459/4.jpg" alt="dados" />
 
 
  ### Hi there 👋
