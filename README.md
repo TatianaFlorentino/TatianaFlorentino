@@ -1,4 +1,8 @@
 ### Hi there 👋
+### Meu nome  Tatiana Florentino
+Sou Product Manager atualmente, 
+Projetos e Publicações:
+
 
 <!--
 **TatianaFlorentino/TatianaFlorentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
