@@ -34,11 +34,19 @@ Durante minha trajetória profissional, trabalhei em projetos internacional, mig
 
 ## Estudos
 * [Estudos - Primeiros Passos Python](https://colab.research.google.com/drive/14gLWh9ZjfNtdTjQMR7oujeaEd6U2-nxL#scrollTo=QtxLVLaDXtFt)
+
+## Criando uma nuvem de palevras:
+* [Analisando os Dados do Airbnb, criando nuvem de palavras: Rio de Janeiro](https://colab.research.google.com/drive/1b5etiXNCLKLAOKzGhXFNMQ5ENyPD_jPz#scrollTo=CQmgS21yF0Ju)
+
+
+## Retomando meus estudos:
+* [https://github.com/TatianaFlorentino/DeepLearning]
+* (https://github.com/TatianaFlorentino/DeepLearning/blob/master/Deep_Learning.ipynb)
+
 * [Análise Estatística e Modelagem Preditiva de Séries Temporais com Python](https://colab.research.google.com/gist/TatianaFlorentino/3e3a751c6aac964416df14c4ec6ba9c8/s-ries_temporais_-time_series.ipynb)
 
 
-## Projetos e Publicações:
-* [Analisando os Dados do Airbnb, criando nuvem de palavras: Rio de Janeiro](https://colab.research.google.com/drive/1b5etiXNCLKLAOKzGhXFNMQ5ENyPD_jPz#scrollTo=CQmgS21yF0Ju)
+
 
 
 <!--
