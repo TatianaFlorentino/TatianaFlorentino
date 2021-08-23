@@ -43,10 +43,10 @@ Durante minha trajetória profissional, trabalhei em projetos internacional, mig
 * [https://github.com/TatianaFlorentino/DeepLearning]
 ## Retomando meus estudos - Detectando uma imagem :
 * (https://github.com/TatianaFlorentino/DeepLearning/blob/master/Deep_Learning.ipynb)
-
+## Retomando meus estudos - outros estudos :
 * [Análise Estatística e Modelagem Preditiva de Séries Temporais com Python](https://colab.research.google.com/gist/TatianaFlorentino/3e3a751c6aac964416df14c4ec6ba9c8/s-ries_temporais_-time_series.ipynb)
 
-
+* [Análise Estatística e Datascience para People Analytics]
 
 
 
