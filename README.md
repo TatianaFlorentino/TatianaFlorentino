@@ -47,6 +47,7 @@ Durante minha trajetória profissional, trabalhei em projetos internacional, mig
 * [Análise Estatística e Modelagem Preditiva de Séries Temporais com Python](https://colab.research.google.com/gist/TatianaFlorentino/3e3a751c6aac964416df14c4ec6ba9c8/s-ries_temporais_-time_series.ipynb)
 
 * [Análise Estatística e Datascience para People Analytics]
+(https://github.com/TatianaFlorentino/Machine-Learning/blob/master/%5BEstudo%5D_DS_para_People_Analytics.ipynb)
 
 
 
