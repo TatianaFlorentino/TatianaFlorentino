@@ -94,6 +94,8 @@ Email: tatianafloren@gmail.com
 * [LinkedIn](https://br.linkedin.com/public-profile/in/tatiana-florentino-52179010)
 * [Medium](https://medium.com/@tatianafloren)
 * [instagram](https://www.instagram.com/trajetoria_datascience/?hl=pt)
+* [Entrevistas Data Product Manager]
+* [Cursos]
 
 
 ## Base de Estudos
