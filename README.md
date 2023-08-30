@@ -7,10 +7,28 @@ Vale ressaltar que os dados utilizados provêm de fontes públicas e o propósit
 
 Aqui você encontrará:
 
-## Projetos falando sobre conceitos e arquitetura de dados.
-## Projetos de Business Intelligence desenvolvidos no Microsoft Power BI.
-## Projetos de Machine Learning implementados com o uso da linguagem Python.
+* Projetos falando sobre conceitos e arquitetura de dados.
+* Projetos falando sobre conceitos e Engenharia de dados.
+* Projetos de Machine Learning implementados com o uso da linguagem Python.
+* Projetos de Business Intelligence desenvolvidos no Microsoft Power BI.
+* Projetos de ferramentas no-code e low-code em Analytics focado em Dados e Produtos.
 
+| Nome do Projeto | Notebook ou Link | Linguagem | Fonte de Dados |  Objetivo | Observação |  
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Projetos falando sobre conceitos e arquitetura de dados  | Link | Doc  | Conhecimento  | Conhecer diversas arquiteturas no mercado | Um projeto completo falando das vantagens de cada conceito de arquitetura de dados, ferramentas  |
+| Engenharia de Dados - Coleta de Dados do passado Twitter que agora X | Link | Python  | Próprio  |Bootcamp-Engenharia-de-Dados | Um projeto completo Bootcamp-Engenharia-de-Dados - Aplicando conhecimento em Crawler |
+| Prevendo Valores de Airbnb  | Link  | Python  | airbnb | Análise de Locação fixas |  |
+| Covid-19 (Análise de Sentimentos)  | Proposta  | R | Universidade Suécia  | Objetivo: Reduzir problemas mentais causado pelo COVID, 1 onda Como: Conhecendo os sentimentos mais propensos da primeira onda do COVID para  atuar com ações de retenção pró-ativa contra problemas mentais  | Proposta de solução para o desafio do Pós - Graduação USP - ESALQ - Etapas: Análise Exploratória de Dados, Balançeamento de Classes, aplicação de diversos algoritmos de Classificação e exposição dos resultados e apresentação para os professores  |
+| People Analytics  | Proposta  | Python  | Própria | Objetivo: Reduzir o turnover de desligamentos voluntários Como: Conhecendo os funcionários mais propensos a saírem para o RH atuar com ações de retenção pró-ativa.  | Um projeto completo de Machine Learning, da definição do problema, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), tratamento, geração do modelo (classificação utilizando Random Forest) até a Publicação na Web - utilizando flask (o Deploy em Produção)  |
+| Cluster de Empresas Layoff  | Link  | Python | N/A  | N/A  | Análise de Empresas que praticaram layoff 2022-2023 - Tentando encontrar um agrupamento através de algumas caracteristicas de empresas - Utilizando Clusterização através do Algoritmo K-Means  |
+
+# Dashboards 
+| Nome do Projeto | Notebook ou Link | Linguagem | Fonte de Dados |  Objetivo | Observação |  
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Análise de Vendas, do ano de 2020, de uma empresa que vende equipamentos eletrônicos para alguns grandes clientes corporativos. | -------------  | Power BI  | Próprio  | -------- | Monitoramento do avanço das vendas, análise dos representantes, clientes, produtos vendidos (Trabalho focado na utilização dos recursos do Power BI, assim como Storytelling) |
+| Sistema de Base de Conhecimento para Governança de Tecnologia | ------------- | Power BI| Próprio | ------------- | Um ponto muito importante do COBIT-2019 é ter uma base de Governança  bem definida, ou seja, um local onde possa encontrar os erros conhecidos, as dúvidas mais frequente e etc, nesse painel, se encontra uma mini Base de Conhecimento. |
+| Análise de Produto | ------------- | Power BI| Próprio | ------------- | Estudos iniciais na Ferramenta de Visualização de Dados: PowerBI - Consumindo dados do Excel |
+| Ferramentas No code e Low-Code - Dashboards  | ------------- | Alteryx | Próprio | ------------- | Estudos iniciais na Ferramenta de Visualização de Dados: Alteryx - Consumindo dados da coleta Twitter ou X |
 
 ## Sobre Mim:
 Sou um apaixonado Data Product Manager com um histórico sólido de 5 anos de experiência em projetos que unem dados e produtos para gerar impacto e inovação. 
@@ -46,11 +64,10 @@ Desenvolvimento de Produtos Orientados por Dados
 Visualização de Dados
 Estratégias de Usabilidade
 Colaboração Interfuncional
-Educação:
 
-Mestrado em Ciência de Dados - [Nome da Universidade]
-Contato:
+Educação: Pós - Graduação em Ciência de Dados - USP
 
+Contato: 11 94339-4454
 Email: tatianafloren@gmail.com
 LinkedIn: https://www.linkedin.com/in/tatiana-florentino-52179010/
 Meu portfólio representa meu compromisso em unir dados e produtos para criar soluções impactantes. 
