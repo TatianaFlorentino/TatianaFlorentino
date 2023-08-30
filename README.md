@@ -1,20 +1,60 @@
 
-<img src="https://raw.githubusercontent.com/TatianaFlorentino/TatianaFlorentino/main/Mensagem%20Motivacional%20Bege%20e%20Marrom%20(1).png" alt="dados" />
+### Portfólio de Projetos em Dados (Buscando valor em Dados) 👋
+
+Neste repositório, você terá acesso a uma coleção de projetos que desenvolvi e estou atualmente trabalhando, ao longo da minha trajetória acadêmica e profissional com dados. O meu foco está em explorar dados para descobrir informações valiosas que embasem decisões fundamentadas. Inicialmente, os projetos começaram com análises de dados por meio de Business Intelligence e, hoje, têm evoluído em direção à Inteligência Artificial, incorporando técnicas de Machine Learning!
+
+Vale ressaltar que os dados utilizados provêm de fontes públicas e o propósito desses projetos é experimentar e aplicar algoritmos, ferramentas e metodologias.
+
+Aqui você encontrará:
+
+## Projetos falando sobre conceitos e arquitetura de dados.
+## Projetos de Business Intelligence desenvolvidos no Microsoft Power BI.
+## Projetos de Machine Learning implementados com o uso da linguagem Python.
 
 
- ### Hi there 👋
-# Meu nome  Tatiana Florentino
+## Sobre Mim:
+Sou um apaixonado Data Product Manager com um histórico sólido de 5 anos de experiência em projetos que unem dados e produtos para gerar impacto e inovação. 
+Minha paixão pelo entendimento das necessidades dos usuários e pela criação de soluções baseadas em dados impulsionou meu crescimento profissional.
 
-Atualmente, sou Product Manager em uma fintech e estudante de Data Science.
+Experiência:
 
-Tenho mais de 16 anos de experiência na área de tecnologia.
+# Cora - Data Product Manager (Atual):
 
-Durante minha trajetória profissional iniciou-se informalmente aos 24 anos de idade, como desenvolvedora de software meu primeiro trabalho foi na PRODAM.
-Depois comecei a trabalhar com java no CIETEC-USP, TCS entre outras consultorias.
-Após essas experiências, tive a oportunidade de meu primeiro emprego CLT como analista e desenvolvedora, onde iniciei como Analista de Sistemas Pleno e, de acordo com as oportunidades, cheguei ao cargo de Analista de Sistemas Sênior em TI. 
-Resolvi evoluir minha carreira para area de negocios, atuei em empresas como Sem Parar, Ministerio Publico de SP, Webmotors, Startups como analista projetista, negocios, produtos nos regimes PJ e CLT, porém quero agregar na minha carreira conhecimento em linguagens de programação Python, Machine Learning, Inteligência Artificial para gestão e criação de produtos de dados.
+Liderança de equipe na concepção e lançamento de produtos de análise que elevaram a tomada de decisões estratégicas.
+Definição de estratégias para otimização de experiência do usuário com base em análise de dados e feedback.
 
-Durante minha trajetória profissional, trabalhei em projetos internacional, migração sistêmica, automação de rotinas, metodologia BPM e ágil e criação de dashboards de BI, utilizando linguagens Java, Node, Python e Arquitetura AWS.
+# Via  - Data Product Manager (Passado): Abril/2021 - Dez/2022
+
+Condução de análises de dados profundas para informar decisões de produto e melhorias de usabilidade.
+Colaboração estreita com equipes de engenharia de dados, arquitetos, cientistas de dados e design para criar produtos orientados por dados.
+Projetos Destacados:
+
+Lançamento do Painel de Insights de Oportunidades de Vendas:
+Conceitualização e lançamento de um painel interativo que forneceu aos clientes dados valiosos para otimização de suas estratégias de vendas.
+Resultado: Aumento de 5% na retenção de clientes no primeiro trimestre após o lançamento.
+
+Otimização da Jornada do Cliente:
+
+Analisei o fluxo do usuário e implementei melhorias na interface, resultando em um aumento de 15% nas conversões.
+Utilizei análises de funil e análises A/B para fundamentar decisões de design e funcionalidade.
+
+# Habilidades:
+
+Liderança de Equipe
+Análise de Dados
+Desenvolvimento de Produtos Orientados por Dados
+Visualização de Dados
+Estratégias de Usabilidade
+Colaboração Interfuncional
+Educação:
+
+Mestrado em Ciência de Dados - [Nome da Universidade]
+Contato:
+
+Email: tatianafloren@gmail.com
+LinkedIn: https://www.linkedin.com/in/tatiana-florentino-52179010/
+Meu portfólio representa meu compromisso em unir dados e produtos para criar soluções impactantes. 
+Entre em contato para discutirmos como posso contribuir com seus desafios de gerenciamento de produtos e dados.
 
 
 ## Skills: 
@@ -23,6 +63,10 @@ Durante minha trajetória profissional, trabalhei em projetos internacional, mig
 * SQL, 
 * BigQuery, 
 * AWS
+* Azure
+* Databricks
+* Power BI
+* Ferramentas no code de Analytics
 
 ## Perfis:
 
