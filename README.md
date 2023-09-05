@@ -102,9 +102,11 @@ Desenvolvimento em java, EJB, oracle, .NET, Sharepoint, Criação de ETL, Data M
 * Estratégias de Usabilidade
 * Colaboração Interfuncional
 
-Educação: Pós - Graduação em Ciência de Dados - USP
+# Educação: Pós - Graduação em Ciência de Dados - USP, Arquitetura de Solução - FIAP, Graduação Tecnologia de Software - FIAP
 
-Meu portfólio representa meu compromisso em unir dados e produtos para criar soluções impactantes. 
+
+
+Meu [portfólio](https://sites.google.com/view/tatiana-florentino/p%C3%A1gina-inicial) representa meu compromisso em unir dados e produtos para criar soluções impactantes. 
 Entre em contato para discutirmos como posso contribuir com seus desafios de gerenciamento de produtos e dados.
 
 Contato: 11 94339-4454
