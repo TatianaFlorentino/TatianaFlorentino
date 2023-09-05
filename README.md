@@ -112,9 +112,11 @@ Contato: 11 94339-4454
 Email: tatianafloren@gmail.com
 
 ## Soft Skills:
-Pensamento Analitico 
+
 Metodologias de mensuração
-Auto Gestão
+- 📫 Auto Gestão
+- 😄 Pensamento Analitico 
+- ⚡ Metodologias de mensuração.
 
 ## Hard Skills: 
 * Google Sheets
@@ -151,12 +153,5 @@ nuvem de palevras:* [Analisando os Dados do Airbnb, criando nuvem de palavras: R
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
