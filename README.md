@@ -21,7 +21,7 @@ Aqui você encontrará:
 
 | Nome do Projeto | Notebook ou Link | Linguagem | Fonte de Dados |  Objetivo | Observação |  
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Projetos falando sobre conceitos e arquitetura de dados  | Link | Doc  | Conhecimento  | Conhecer diversas arquiteturas no mercado | Um projeto completo falando das vantagens de cada conceito de arquitetura de dados, ferramentas  |
+| Projetos falando sobre conceitos e arquitetura de dados  | [Link](https://github.com/TatianaFlorentino/EngenhariaDados/blob/main/README.md) | Doc  | Conhecimento  | Conhecer diversas arquiteturas no mercado | Um projeto completo falando das vantagens de cada conceito de arquitetura de dados, ferramentas  |
 | Engenharia de Dados - Coleta de Dados do passado Twitter que agora X | Link | Python  | Próprio  |Bootcamp-Engenharia-de-Dados | Um projeto completo Bootcamp-Engenharia-de-Dados - Aplicando conhecimento em Crawler |
 | Prevendo Valores de Airbnb  | Link  | Python  | airbnb | Análise de Locação fixas |  |
 | Covid-19 (Análise de Sentimentos)  | [Proposta](https://github.com/TatianaFlorentino/Dados/blob/master/README.md) | R | COVIDiSTRESS  | Objetivo: Reduzir problemas mentais causado pelo COVID, 1 onda Como: Conhecendo os sentimentos mais propensos da primeira onda do COVID para  atuar com ações de retenção pró-ativa contra problemas mentais  | Proposta de solução para o desafio do Pós - Graduação USP - ESALQ - Etapas: Análise Exploratória de Dados, Balançeamento de Classes, aplicação de diversos algoritmos de Classificação e exposição dos resultados e apresentação para os professores  |
