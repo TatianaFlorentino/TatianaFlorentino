@@ -67,8 +67,7 @@ Resultado: Ebitda  Aumento de 5% na retenção de clientes no primeiro trimestre
 
 # Abastece Aí Product Manager (Passado): Jan/2021 - Abril/2021
 Otimização da Jornada do atendimento:
-Analisei o fluxo do usuário e implementei melhorias de serviços ( API), resultando em um aumento de 50% nas conversões.
-Utilizei análises de funil e análises A/B para fundamentar decisões de design e funcionalidade.
+Analisei o fluxo do usuário e implementei melhorias de serviços de produtos novos white label, discovery de produto financeiro e contábil 
 
 
 # Webmotors Product Manager (Passado): Dez/2019 - Dez/2021
