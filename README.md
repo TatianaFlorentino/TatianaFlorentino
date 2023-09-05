@@ -109,8 +109,11 @@ Desenvolvimento em java, EJB, oracle, .NET, Sharepoint, Criação de ETL, Data M
 Meu [portfólio](https://sites.google.com/view/tatiana-florentino/p%C3%A1gina-inicial) representa meu compromisso em unir dados e produtos para criar soluções impactantes. 
 Entre em contato para discutirmos como posso contribuir com seus desafios de gerenciamento de produtos e dados.
 
+
 Contato: 11 94339-4454
 Email: tatianafloren@gmail.com
+
+https://sites.google.com/view/tatiana-florentino/p%C3%A1gina-inicial
 
 ## Soft Skills:
 
