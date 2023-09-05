@@ -91,7 +91,7 @@ Analisei o fluxo do usuário e implementei melhorias de serviços querys, interf
 Utilizei análises de negócio, análises A/B para fundamentar decisões de design e funcionalidade, análise de dados.
 
 # TecBan - Analista de Sistemas Jan/2008 Mar/2015
-
+Desenvolvimento em java, EJB, oracle, .NET, Sharepoint, Criação de ETL, Data Mining, desenhos de arquiteturas.
 
 # Habilidades:
 
