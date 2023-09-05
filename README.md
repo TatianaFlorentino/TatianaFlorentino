@@ -111,8 +111,13 @@ Entre em contato para discutirmos como posso contribuir com seus desafios de ger
 Contato: 11 94339-4454
 Email: tatianafloren@gmail.com
 
-## Skills: 
+## Soft Skills:
+Pensamento Analitico 
+Metodologias de mensuração
+Auto Gestão
 
+## Hard Skills: 
+* Google Sheets
 * Python, 
 * SQL, 
 * BigQuery, 
@@ -120,6 +125,7 @@ Email: tatianafloren@gmail.com
 * Azure
 * Databricks
 * Power BI
+* Jupyter Notebooks
 * Ferramentas no code de Analytics
 
 ## Perfis:
