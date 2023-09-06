@@ -142,10 +142,12 @@ Metodologias de mensuração
 * [Entrevistas Data Product Manager]
 * [Cursos]
 
+## Links
+* [Governança de dados](https://www.microsoft.com/pt-br/security/business/security-101/what-is-data-governance-for-enterprise)
+* [MLOPS](https://www.databricks.com/br/glossary/mlops)
 
 ## Base de Estudos
 * [Estudos - Primeiros Passos Python](https://colab.research.google.com/drive/14gLWh9ZjfNtdTjQMR7oujeaEd6U2-nxL#scrollTo=QtxLVLaDXtFt)
-## MLOPS: https://www.databricks.com/br/glossary/mlops
 
 ## Bricando com dados 
 nuvem de palevras:* [Analisando os Dados do Airbnb, criando nuvem de palavras: Rio de Janeiro](https://colab.research.google.com/drive/1b5etiXNCLKLAOKzGhXFNMQ5ENyPD_jPz#scrollTo=CQmgS21yF0Ju)
