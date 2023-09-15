@@ -22,6 +22,9 @@ Connect with me:
 * [LinkedIn](https://br.linkedin.com/public-profile/in/tatiana-florentino-52179010)
 * [Medium](https://medium.com/@tatianafloren)
 * [instagram](https://www.instagram.com/trajetoria_datascience/?hl=pt)
+
+  ![image](https://github.com/TatianaFlorentino/TatianaFlorentino/assets/41309689/73af1596-3491-40be-826c-f99e2dec95cf)
+
 __________________________________________________________________________________________________________________________________________________________________
 
 ### Portfólio de Projetos em Dados (Buscando valor em Dados) 👋
@@ -61,11 +64,11 @@ Aqui você encontrará:
 | Ferramentas No code e Low-Code - Dashboards  | ------------- | Alteryx | Próprio | ------------- | Estudos iniciais na Ferramenta de Visualização de Dados: Alteryx - Consumindo dados da coleta Twitter ou X |
 | Gamificação de Novos Colaboradores | ------------- | Power BI | Próprio | ------------- | Estudos iniciais na Ferramenta de Visualização de Dados: Aplicando Colaboração Interfuncional, liderança, estratégia de usabilidade |
 
-## Sobre Mim:
+### Sobre Mim:
 Sou um apaixonada Data & Product &  Manager com um histórico sólido de 5 anos de experiência em projetos que unem dados e produtos e gerenciamento para gerar impacto e inovação. 
 Minha paixão pelo entendimento das necessidades dos usuários e pela criação de soluções baseadas em dados impulsionou meu crescimento profissional.
 
-# Habilidades:
+### Habilidades:
 
 * Liderança de Equipe
 * Análise de Dados
@@ -74,18 +77,17 @@ Minha paixão pelo entendimento das necessidades dos usuários e pela criação 
 * Estratégias de Usabilidade
 * Colaboração Interfuncional
 
-# Educação: Pós - Graduação em Ciência de Dados - USP, Arquitetura de Solução - FIAP, Graduação Tecnologia de Software - FIAP
+### Educação:
+
+Pós - Graduação em Ciência de Dados - USP
+Pós - Graduação emArquitetura de Solução - FIAP
+Graduação Tecnologia de Software - FIAP
+Graduação em Ciência de Dados - USP, Arquitetura de Solução - FIAP, Graduação Tecnologia de Software - FIAP
 
 Meu [portfólio](https://sites.google.com/view/tatiana-florentino/p%C3%A1gina-inicial) representa meu compromisso em unir dados e produtos para criar soluções impactantes. 
 Entre em contato para discutirmos como posso contribuir com seus desafios de gerenciamento de produtos e dados.
 
-Contato: 11 94339-4454
-Email: tatianafloren@gmail.com
-
-https://sites.google.com/view/tatiana-florentino/p%C3%A1gina-inicial
-
 ## Soft Skills:
-
 Metodologias de mensuração
 - 📫 Auto Gestão
 - 😄 Pensamento Analitico 
@@ -120,11 +122,5 @@ Metodologias de mensuração
 nuvem de palevras:* [Analisando os Dados do Airbnb, criando nuvem de palavras: Rio de Janeiro](https://colab.research.google.com/drive/1b5etiXNCLKLAOKzGhXFNMQ5ENyPD_jPz#scrollTo=CQmgS21yF0Ju)
 * [https://github.com/TatianaFlorentino/DeepLearning]
 * (https://github.com/TatianaFlorentino/DeepLearning/blob/master/Deep_Learning.ipynb)
-
-<!--
-**TatianaFlorentino/TatianaFlorentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 -->
