@@ -30,7 +30,7 @@ ________________________________________________________________________________
 ### Portfólio de Projetos em Dados (Buscando valor em Dados) 👋
 Pode surgir a pergunta sobre a razão pela qual um Data Product Manager deve possuir um portfólio de dados.
 Acredito que conhecer as tecnologias, ferramentas pode ajudar na inovação dos produtos que se cria..
-Por isso, estudo e pratico constantemente os métodos, algoritmos e melhores práticas relacionadas a Data Science, Machine Learning. Assim, em 2 anos, adquiri experiência de mercado em projetos de predição de séries temporais, algoritmos de aprendizagem por reforço para geração de casos automatizados de testes, criação de ETLs e pipelines orquestradas e claro criação de dashboards.
+Por isso, estudo e prático constantemente os métodos, algoritmos e melhores práticas relacionadas a Data Science, Machine Learning. Assim, em 2 anos, adquiri experiência de mercado em projetos de predição de séries temporais, algoritmos de aprendizagem por reforço para geração de casos automatizados de testes, criação de ETLs e pipelines orquestradas e claro criação de dashboards.
 
 Neste repositório, você terá acesso a uma coleção de projetos que desenvolvi e estou atualmente trabalhando, ao longo da minha trajetória acadêmica e profissional com dados. O meu foco está em explorar dados para descobrir informações valiosas que embasem decisões fundamentadas. Inicialmente, os projetos começaram com análises de dados por meio de Business Intelligence e, hoje, têm evoluído em direção à Inteligência Artificial, incorporando técnicas de Machine Learning!
 
