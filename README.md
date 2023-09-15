@@ -1,5 +1,7 @@
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
+  ![image](https://github.com/TatianaFlorentino/TatianaFlorentino/assets/41309689/73af1596-3491-40be-826c-f99e2dec95cf)
+
 Hello 👋, I'm Tatiana Florentino or Tati
 Data Product Manager, Aspiring in the world of data and Datascience
 
@@ -23,7 +25,7 @@ Connect with me:
 * [Medium](https://medium.com/@tatianafloren)
 * [instagram](https://www.instagram.com/trajetoria_datascience/?hl=pt)
 
-  ![image](https://github.com/TatianaFlorentino/TatianaFlorentino/assets/41309689/73af1596-3491-40be-826c-f99e2dec95cf)
+
 
 __________________________________________________________________________________________________________________________________________________________________
 
