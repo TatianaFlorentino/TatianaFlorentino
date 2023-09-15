@@ -1,6 +1,19 @@
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
+Hello 👋, I'm Tatiana Florentino or Tati
+Data Product Manager, Aspiring in the world of data and DATAscience or Data engineering
 
+In the past I have worked as a full stack, I know some programming languages ​​such as Java, .NET
+
+🔭 I'm currently working in the organization applying myself with real cases to solve business problems.
+
+🌱 I'm currently learning Azure
+
+💬 Ask me about Python, SQL and NoSQL, Power BI
+
+📫 How to contact me tatianafloren@gmail.com
+
+⚡ Fun fact: I love creating new, different businesses
 
 ### Portfólio de Projetos em Dados (Buscando valor em Dados) 👋
 Pode surgir a pergunta sobre a razão pela qual um Data Product Manager deve possuir um portfólio de dados.
