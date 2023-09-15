@@ -46,7 +46,7 @@ Aqui você encontrará:
 
 | Nome do Projeto | Notebook ou Link | Linguagem | Fonte de Dados |  Objetivo | Observação |  
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Começo de tudo Banco de dados   | [Link](https://github.com/TatianaFlorentino/BancoDados) | SQL  | Revisão de Conteúdo  | Revisar conhecimento de SQL, Banco de dados | Mini projeto conceito de banco de dados, ferramentas, linguagem SQL  |
+| Começo de tudo, Banco de dados   | [Link](https://github.com/TatianaFlorentino/BancoDados) | SQL  | Revisão de Conteúdo  | Revisar conhecimento de SQL, Banco de dados | Mini projeto conceito de banco de dados, ferramentas, linguagem SQL  |
 |Banco de dados não relacional - noSQL | [Link](https://github.com/TatianaFlorentino/NoSQL) | NoSQL  | Revisão de Conteúdo  | Revisar conhecimento de SQL, Banco de dados | Mini projeto conceito de banco de dados não relacional, MongoDB  |
 | Projetos falando sobre conceitos e arquitetura de dados  | [Link](https://github.com/TatianaFlorentino/EngenhariaDados/blob/main/README.md) | Doc  | Conhecimento  | Conhecer diversas arquiteturas no mercado | Um projeto completo falando das vantagens de cada conceito de arquitetura de dados, ferramentas  |
 | Engenharia de Dados - Coleta de Dados do passado Twitter que agora X | Link | Python  | Próprio  |Bootcamp-Engenharia-de-Dados | Um projeto completo Bootcamp-Engenharia-de-Dados - Aplicando conhecimento em Crawler |
