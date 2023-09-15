@@ -58,16 +58,16 @@ Minha paixão pelo entendimento das necessidades dos usuários e pela criação 
 
 Experiência:
 
-# 3 UP  Prestação de Serviços em Dados e CyberSecurity, Produtos, Projetos  (Atual):
+* 3 UP  Prestação de Serviços em Dados e CyberSecurity, Produtos, Projetos  (Atual):
 Treinamento, Desenvolvimento Dashboards, análise de oportunidades de negócio, 
 modelagem de soluções tecnológicas, gestão do portfólio de soluções, negociação, planejamento de 
 demanda do cliente, gestão comercial do relacionamento, gestão e monitoramento contratual, aferição e busca de novas oportunidades de negócio,
 faturamento do serviço.
 
-# Cora - Data Product Manager :  Abril/2023 - Abril/2023
+* Cora - Data Product Manager :  Abril/2023 - Abril/2023
 Projeto para apoiar área de contabilidade de forma estratégica, melhorar eficiência contábil para redução de custos operacionais, estudos para mapear com exatidão tributos contábil aplicando melhoria nas ingestões de dados contabéis.
 
-# Via  - Data Product Manager (Passado): Abril/2021 - Dez/2022
+* Via  - Data Product Manager (Passado): Abril/2021 - Dez/2022
 
 Liderança de equipe na concepção e lançamento de produtos de análise que elevaram a tomada de decisões estratégicas.
 Definição de estratégias para otimização de experiência do usuário com base em análise de dados e feedback.
@@ -80,32 +80,32 @@ Lançamento do Painel de Insights de Oportunidades de Vendas: Funis de Vendas, S
 Conceitualização e lançamento de um painel interativo que forneceu aos clientes dados valiosos para otimização de suas estratégias de vendas.
 Resultado: Ebitda  Aumento de 5% na retenção de clientes no primeiro trimestre após o lançamento.
 
-# Abastece Aí Product Manager (Passado): Jan/2021 - Abril/2021
+* Abastece Aí Product Manager (Passado): Jan/2021 - Abril/2021
 Otimização da Jornada do atendimento:
 Analisei o fluxo do usuário e implementei melhorias de serviços de produtos novos white label, discovery de produto financeiro e contábil 
 
 
-# Webmotors Product Manager (Passado): Dez/2019 - Dez/2021
+* Webmotors Product Manager (Passado): Dez/2019 - Dez/2021
 Otimização da Jornada do atendimento:
 Analisei o fluxo do usuário e implementei melhorias de serviços ( API), resultando em um aumento de 50% nas conversões.
 Utilizei análises de funil e análises A/B para fundamentar decisões de design e funcionalidade.
 
-# Wipro: Jun/2019 - Dez/2019
+* Wipro: Jun/2019 - Dez/2019
 Otimização da Jornada do cliente do aplicativo da Ágora Corretora:
 Analisei o fluxo do usuário e implementei melhorias na interface, resultando 
 Utilizei análises de negócio, prototipação, criação de estórias de usuários
 
-# Yandeh Product Owner: Jan/2019 - Jun/2019
+* Yandeh Product Owner: Jan/2019 - Jun/2019
 Otimização da Jornada de integração com varejistas : Com os Dados integrados, foi a chave resultados sólidos com a Yandeh conseguiu alancar seus negócios no Sudeste do Brasil
 Analisei o fluxo do usuário e implementei melhorias de serviços ( API), resultando em um aumento de 90% nas conversões das integrações sistêmicas
 Utilizei técnicas de negociação, kanban, arquitetura.
 
-# Dscon - Sem Parar Product Owner Maio/2015- Dez/2018
+* Dscon - Sem Parar Product Owner Maio/2015- Dez/2018
 Otimização da Jornada do Comercial, atendimento:
 Analisei o fluxo do usuário e implementei melhorias de serviços querys, interface, serviços SOAP, resultando migração sistêmica para Fleet Cor.
 Utilizei análises de negócio, análises A/B para fundamentar decisões de design e funcionalidade, análise de dados.
 
-# TecBan - Analista de Sistemas Jan/2008 Mar/2015
+* TecBan - Analista de Sistemas Jan/2008 Mar/2015
 Desenvolvimento em java, EJB, oracle, .NET, Sharepoint, Criação de ETL, Data Mining, desenhos de arquiteturas.
 
 # Habilidades:
