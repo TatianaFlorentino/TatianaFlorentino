@@ -1,72 +1,141 @@
-[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
+# Tatiana Florentino
 
-  ![image](https://github.com/TatianaFlorentino/TatianaFlorentino/assets/41309689/73af1596-3491-40be-826c-f99e2dec95cf)
+**Lidero laboratórios e produtos de inteligência artificial no setor público — do diagnóstico do problema à escala da solução — com governança ética, redes de inovação e evidência de valor para o cidadão.**
 
-# 👋 Hello, I'm Tatiana Florentino  
+Product Manager de IA Low Code · Gerência de Inovações Digitais · Governo de Goiás  
+Associada à [Rede InovaGov](https://inovagov.enap.gov.br/) (ENAP/GNova) · Associada e líder da Rede TIC Goiás
 
-💡 **Data Product Manager | AI & Python | Google Cloud | Vibe Coding | Leadership IA**  
+[LinkedIn](https://www.linkedin.com/in/tatianaflorentino/) · [GitHub](https://github.com/TatianaFlorentino) · tatianafloren@gmail.com
 
----
-
-### 🛠️ Skills & Focus  
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![SQL](https://img.shields.io/badge/SQL-database-orange)
-![LLM](https://img.shields.io/badge/LLM-AI-green)
-![Produto](https://img.shields.io/badge/Produto-Management-red)
-![Discovery](https://img.shields.io/badge/Discovery-Insights-yellow)
-![Vibe%20Coding](https://img.shields.io/badge/Vibe%20Coding-Creativity-pink)
+<p>
+  <img src="https://img.shields.io/badge/Inova%C3%A7%C3%A3o_p%C3%BAblica-laborat%C3%B3rio-0b3a6e?style=flat-square" alt="Inovação pública" />
+  <img src="https://img.shields.io/badge/Produto_de_IA-diagn%C3%B3stico_%E2%86%92_escala-1b5e3b?style=flat-square" alt="Produto de IA" />
+  <img src="https://img.shields.io/badge/IA_respons%C3%A1vel-humano_no_loop-8a6d12?style=flat-square" alt="IA responsável" />
+</p>
 
 ---
 
-## 💫 About Me  
-Sou a **Tati** — apaixonada por **dados, produtos e pessoas**.  
-Transformo ideias em soluções inteligentes que unem **IA, estratégia e empatia**.  
+## Linha de pesquisa
+
+**Laboratórios de inovação pública e produtos de inteligência artificial responsável:** métodos de diagnóstico, experimentação e escala de soluções de IA (agentes, low-code e sistemas multiagentes) na gestão pública, com ênfase em ética, acessibilidade e evidência de valor.
+
+### Três perguntas (agenda até 2027)
+
+1. Como um laboratório de governo decide **o que** prototipar em IA — e o que matar — com diagnóstico, não com hype?
+2. Como transformar PoCs de agentes e low-code em **produto observável** (evals, spec, humano no loop) no setor público?
+3. Como redes (TIC, InovaGov) e laboratórios aceleram adoção responsável de IA sem perder controle ético, dados e acessibilidade?
+
+### Método de diagnóstico — prontidão para IA
+
+Rubrica 1–5 aplicada ao órgão **antes** de construir agente ou automação. Sem nota mínima nos eixos críticos, a iniciativa não entra no laboratório.
+
+| Eixo | O que se observa | Go / No-go |
+| --- | --- | --- |
+| **Problema** | Dor pública delimitada, dono, cidadão ou servidor afetado | Sem problema nomeado → não prototipa |
+| **Dados** | Origem, qualidade, LGPD, o que pode ir a modelo | Dado pessoal sem base legal → não prototipa |
+| **Processo** | Fluxo atual, gargalo, o que a IA substitui ou apoia | Processo inexistente → diagnostica primeiro |
+| **Pessoas** | Quem valida, quem opera, capacitação | Sem humano no loop em decisão crítica → não escala |
+| **Ética e acesso** | Viés, transparência, linguagem simples, acessibilidade | Risco alto sem salvaguarda → mata ou redesenha |
+| **Infra** | Onde roda (Gemini, Ollama, ADK, low-code), observabilidade | Sem eval / rastreio → fica em lab, não em produção |
 
 ---
 
-## 🧩 Projects & Experiments
+## Lab OS — como o laboratório decide
 
-| Área | Projeto | Descrição | Stack |
-|------|--------|-----------|-------|
-| 🤖 Agentes de IA | **AI Onboarding Assistant** | Acompanha novos colaboradores, responde dúvidas e sugere conteúdos. | Vertex AI · Python · LangChain · MCP · ADK |
-| 🤖 Data Insight Bot | **Insight Generator** | Analisa bases de dados e gera resumos de insights em linguagem natural. | Python · BigQuery · Gemini API · Streamlit |
-| 🤖 Product Decision Assistant | **AI Product Coach** | Apoia gestão de produtos: resume métricas, propõe hipóteses e próximos experimentos. | Relevance AI · Vertex AI · Python · LangGraph |
-| 🤖 Customer Support Copilot | **CX Copilot** | Copiloto automatizado que responde e-mails de clientes baseado em FAQs e sentimento. | Vertex AI · Dialogflow CX · N8N · Python |
-| 💞 Lovable Vibes | **Flow of Happiness** | Automação gamificada para feedbacks positivos e cultura de colaboração. | Lovable · N8N · Google Sheets · GPT Actions |
-| 🧘 Team Pulse Bot | **Mood Tracker Bot** | Mede humor do time, analisa sentimentos e sugere ações de bem-estar. | Relevance AI · Lovable · Python · Vertex AI |
-| 🪄 Creative Prompt Studio | **Prompt Playground** | Ferramenta para testar e comparar prompts de IA generativa. | Python · Streamlit · Vertex AI · Gemini API |
-| 🌈 AI Ideation Partner | **Innovation Agent** | Agente colaborativo que ajuda times a gerar ideias e mapear oportunidades. | Relevance AI · Vertex AI · LangChain · N8N |
+O laboratório não é uma fila de ideias. É um **sistema de decisão**.
 
----
+```mermaid
+flowchart LR
+  A[Demanda] --> B[Diagnóstico 1–5]
+  B -->|No-go| K[Encerrar / devolver]
+  B -->|Go| C[Hipótese + spec]
+  C --> D[PoC em ciclo curto]
+  D --> E{Evidência}
+  E -->|Não validou| K
+  E -->|Validou| F[Produto: evals, ética, escala]
+```
 
-## 📊 Outros Projetos de Dados  
+| Etapa | Pergunta que o lab faz | Resultado aceitável |
+| --- | --- | --- |
+| **Entrada** | Qual problema público? Quem sofre? | Ficha de diagnóstico preenchida |
+| **Hipótese** | O que muda se a IA existir? | Spec: missão, fora de escopo, critérios de pronto |
+| **Experimento** | Dá para testar em dias, com dado sintético ou recorte? | PoC observável, não demo de chat |
+| **Decisão** | Escalar, pivotar ou matar? | Registro escrito — inclusive do que *não* segue |
+| **Escala** | Tem dono, eval, humano no loop e acessibilidade? | Produto na operação, não no laboratório |
 
-| 🏷️ Nome do Projeto | 🔗 Link | 🐍 Linguagem / Ferramenta | 🎯 Objetivo / Descrição |
-|--------------------|---------|---------------------------|--------------------------|
-| **Começo de tudo — Banco de Dados** | [GitHub](https://github.com/TatianaFlorentino/BancoDados) | SQL | Revisão prática de conceitos de banco de dados, linguagem SQL e ferramentas de gestão de dados relacionais. |
-| **Banco de Dados Não Relacional (NoSQL)** | [GitHub](https://github.com/TatianaFlorentino/NoSQL) | NoSQL | Mini projeto sobre bancos de dados não relacionais, com foco em MongoDB e estrutura de dados flexível. |
-| **Arquitetura de Dados — Conceitos e Estruturas** | [GitHub](https://github.com/TatianaFlorentino/EngenhariaDados/blob/main/README.md) | Documentação | Comparativo de arquiteturas modernas de dados: Data Lake, Data Mesh e Lakehouse. |
-| **Prevendo a Taxa de Churn — Netflix** | [GitHub](https://github.com/TatianaFlorentino/Classificacao) | Python | Projeto completo de Machine Learning — análise exploratória, modelagem com Random Forest e deploy em Flask. |
-| **Covid-19 (Análise de Sentimentos)** | [GitHub](https://github.com/TatianaFlorentino/Dados/blob/master/README.md) | R | Estudo de sentimentos na 1ª onda do COVID, parte de desafio da Pós USP-ESALQ. |
-| **People Analytics** | [GitHub](https://github.com/TatianaFlorentino/Machine-Learning/blob/master/%5BEstudo%5D_DS_para_People_Analytics.ipynb) | Python | Estudo de dados de RH e People Analytics, aplicando técnicas de aprendizado supervisionado. |
-| **Cluster de Empresas — Layoffs** | [GitHub](https://github.com/TatianaFlorentino/Clusterizacao) | Python | Agrupamento de empresas (2022–2023) por características usando K-Means para entender padrões de layoffs. |
-| **Dashboard de Vendas — Power BI** | [GitHub](https://github.com/TatianaFlorentino/trajetoriads/blob/main/README.md) | Power BI | Dashboard corporativo de vendas — análise de representantes, produtos e storytelling em dados. |
-| **Deep Learning — Estudos Iniciais** | [GitHub](https://github.com/TatianaFlorentino/DeepLearning/blob/master/Deep_Learning.ipynb) | Python | Introdução prática a Deep Learning com exemplos de redes neurais e frameworks de IA. |
-| **Estudos — Primeiros Passos em Python** | [Google Colab](https://colab.research.google.com/drive/14gLWh9ZjfNtdTjQMR7oujeaEd6U2-nxL#scrollTo=QtxLVLaDXtFt) | Python | Base de estudos introdutórios em Python — manipulação de dados, funções e fundamentos da linguagem. |
-| **Brincando com Dados — Airbnb (Nuvem de Palavras)** | [Google Colab](https://colab.research.google.com/drive/1b5etiXNCLKLAOKzGhXFNMQ5ENyPD_jPz#scrollTo=CQmgS21yF0Ju) | Python | Análise textual e criação de nuvem de palavras a partir de dados públicos do Airbnb (Rio de Janeiro). |
+Kill criteria (o lab recusa): ferramenta em busca de problema · dado real de cidadão no GitHub · PoC sem critério de pronto · IA autônoma em decisão que exige responsabilidade humana.
 
 ---
 
-## 💼 What I Bring  
-- Liderança de produtos de IA — do discovery ao deploy  
-- Visão técnica e estratégica — experiência real com dados e cloud  
-- Empatia e comunicação — pessoas no centro da inovação  
-- Hands-on com Python, BigQuery e Vertex AI  
+## Três cases de produto
+
+Sistema na capa. Stack no rodapé de cada case.
+
+### 1. Auditoria de documentos com IA
+
+**Problema.** Conferência documental lenta, inconsistente e cara de escalar com gente só.  
+**Diagnóstico.** O gargalo não é “falta de LLM” — é ausência de critério de conferência, rastreio da decisão e validação com quem opera o processo.  
+**Produto.** Solução ponta a ponta de auditoria/conferência com agentes (Google ADK, Gemini, AI Studio), do protótipo à validação com usuários — formação AI Product Leaders (Tera, Turma 4, 2026).  
+**Ética.** Humano no loop em parecer crítico. Dados sintéticos em repositório público.  
+**Status.** Case de produto · repositório público em abertura.
+
+### 2. Agente cidadão
+
+**Problema.** Cidadão e servidor se perdem em linguagem de órgão, filas e FAQ morto.  
+**Diagnóstico.** Atendimento falha antes da tecnologia: jargão, falta de recorte do que o agente *não* pode responder, risco de dado pessoal.  
+**Produto.** [`citizen_assistant`](https://github.com/TatianaFlorentino/citizen_assistant) — agente de IA com recorte de serviço público, linguagem simples e limite explícito de atuação.  
+**Ética.** Acessibilidade e LGPD na spec, não no slide final.  
+**Status.** Repositório ativo · README de produto em evolução.
+
+### 3. Banco de soluções de IA para a gestão pública
+
+**Problema.** Órgãos reinventam a mesma PoC; a inovação não circula pelo *problema*, só pela ferramenta.  
+**Diagnóstico.** Falta catálogo comparável: dono, maturidade, risco ético, o que já foi tentado.  
+**Produto.** Base nacional de soluções e ideias de IA no setor público, organizada **pelo problema que resolvem** — ministérios, prefeituras, universidades, ICTs. Ativo de inovação aberta (InovaGov).  
+**Ética.** Ficha com risco, dado e supervisão humana.  
+**Status.** Iniciativa em construção · 15 fichas de MVP como meta pública.
 
 ---
 
-## 💬 Let’s Connect  
-📧 tatianafloren@gmail.com  
-💼 [LinkedIn](https://br.linkedin.com/public-profile/in/tatiana-florentino-52179010)
+## Liderança de rede — o que a rede produziu
 
--->
+Não é logo. É produção.
+
+| Rede | Papel | O que a rede entrega |
+| --- | --- | --- |
+| **Rede TIC Goiás** | Associada e liderança (desde dez/2025) | Comunidade de TIC do Governo de Goiás: grupos de trabalho, eventos, visitas técnicas, diagnóstico de maturidade digital, pauta de IA / dados / analytics |
+| **Rede InovaGov** | Associada (ENAP/GNova) | Conexão nacional de inovação pública: práticas, comunidades, agenda de laboratórios e IA responsável |
+
+Na prática: articular órgãos, disseminar o que funciona, impedir que cada secretaria recomece do zero. A rede é o canal de escala do laboratório.
+
+---
+
+## Fronteira — em construção
+
+A formação vira artefato. Sem artefato, fica no rodapé.
+
+| Frente | O que está sendo construído | Quando |
+| --- | --- | --- |
+| **Sistemas multiagentes** | `multiagentes-gov` — orquestração, MCP, LangGraph/CrewAI, evals e tracing num fluxo público pequeno e rodável | 2026 · em formação (Tera — AI Engineering para Sistemas Multiagentes) |
+| **Spec-Driven Development** | Spec como fonte da verdade para agente (missão, stack, roadmap, critérios de pronto) aplicada a caso de governo — não material de curso | 2026 · em evolução ([spec-driven](https://github.com/TatianaFlorentino/sc-spec-driven-development-files)) |
+
+Última atualização desta seção: **setembro de 2026**.
+
+---
+
+## Formações — prova de capacidade, não identidade
+
+A capa é o laboratório. Isto é o que sustenta a execução.
+
+**Em andamento (Tera, 2026)**  
+AI Business Leader · AI Engineering para Sistemas Multiagentes
+
+**Concluído**  
+AI Product Leaders (Tera, Turma 4, 2026) — projeto: auditoria documental com IA  
+AI Product Builders (Tera) — n8n, Zapier, Lovable, agentes  
+Certificação em Transformação e Inovação da Gestão e dos Serviços Públicos  
+MBA Data Science e Analytics — USP (2020–2022)  
+Liderança em Inteligência Artificial — DataCamp  
+Product Management — PM3 (2020)
+
+Trajetória de produto e dados (síntese): Stone, Via Varejo, Webmotors, TecBan, Sem Parar — discovery, analytics e plataformas. No setor público: Gerência de Inovações Digitais, Laboratório de Soluções de IA, Campus Party Goiás 2025 (palestra: low-code, IA e automação).
