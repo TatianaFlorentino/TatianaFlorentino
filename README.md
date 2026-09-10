@@ -99,12 +99,29 @@ Sistema na capa. Stack no rodapé de cada case.
 
 ## Liderança de rede — o que a rede produziu
 
-Não é logo. É produção.
+Não é logo. É produção. Catálogo público: [`rede-tic-acoes`](https://github.com/TatianaFlorentino/rede-tic-acoes).
 
-| Rede | Papel | O que a rede entrega |
-| --- | --- | --- |
-| **Rede TIC Goiás** | Associada e liderança (desde dez/2025) | Comunidade de TIC do Governo de Goiás: grupos de trabalho, eventos, visitas técnicas, diagnóstico de maturidade digital, pauta de IA / dados / analytics |
-| **Rede InovaGov** | Associada (ENAP/GNova) | Conexão nacional de inovação pública: práticas, comunidades, agenda de laboratórios e IA responsável |
+### Rede TIC Goiás — liderança (desde dez/2025)
+
+Comunidade de TIC do Governo de Goiás: unidade central (STI/SGG) e setoriais. Fonte interna: [SharePoint](https://goiasgovbr.sharepoint.com/sites/redetic) (mai/2026). Marco: [Decreto nº 10.730/2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111078/decreto-10730).
+
+**Pleno funcionamento desde julho de 2026:** mais de **175 colaboradores** ativados, com GRG/FCRG redistribuída no Estado.
+
+| Entrega | O que saiu do papel |
+| --- | --- |
+| **Estruturação mínima** | Arranjo para a Rede operar: canal, rito, gente e plano — sem depender de organograma que a gestão desfez |
+| **Visitas às setoriais** | Ciclo presencial **abril–maio de 2026** (concluído) |
+| **Indicações** | Formulário publicado, compilação e revisão jurídica versus o decreto |
+| **Planos de trabalho** | Um plano para as setoriais e outro para a unidade central (art. 17), com workflow da chefia imediata |
+| **Ativação e desativação** | Processo de entrada e saída de membros; normativo de critérios em fechamento |
+| **GETIC** | Sistema de gestão da Rede — fluxo **desenhado por mim**: indicadores, parte contábil, planos, workflow, integração com o **SEI**, evidências num módulo **S3**. Cada membro vê o próprio plano, atividades e histórico; cada chefia vê só o time da Rede na sua unidade. Sai do controle manual |
+| **Capacitação** | Plano feito e **direcionado ao laboratório da LIGO** — execução em andamento |
+
+O desenho por eixos/embaixadores do plano de fevereiro foi desconstituído na troca de Subsecretaria. No lugar ficou a Rede que funciona: setorial + central, GETIC e gratificação atrelada a quem atua.
+
+### Rede InovaGov
+
+Associada (ENAP/GNova). Conexão nacional de inovação pública: práticas, comunidades, agenda de laboratórios e IA responsável.
 
 Na prática: articular órgãos, disseminar o que funciona, impedir que cada secretaria recomece do zero. A rede é o canal de escala do laboratório.
 
@@ -138,4 +155,4 @@ MBA Data Science e Analytics — USP (2020–2022)
 Liderança em Inteligência Artificial — DataCamp  
 Product Management — PM3 (2020)
 
-Trajetória de produto e dados (síntese): Stone, Via Varejo, Webmotors, TecBan, Sem Parar — discovery, analytics e plataformas. No setor público: Gerência de Inovações Digitais, Laboratório de Soluções de IA, Campus Party Goiás 2025 (palestra: low-code, IA e automação).
+Trajetória de produto e dados (síntese): Stone, Via Varejo, Webmotors, TecBan, Sem Parar — discovery, analytics e plataformas. No setor público: Gerência de Inovações Digitais, Laboratório de Soluções de IA, liderança da Rede TIC Goiás (GETIC, ativação da Rede, LIGO), Campus Party Goiás 2025 (palestra: low-code, IA e automação).
